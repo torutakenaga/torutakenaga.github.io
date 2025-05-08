@@ -1,9 +1,9 @@
 # About
 
-I’m a researcher with a background in infectious diseases, currently exploring dry analysis and structural biology to better understand viruses.
+I’m a researcher with a background in infectious diseases, currently focusing on dry analysis and structural biology as ways to better understand viruses.
 
-Outside of research, I practice tango and kendo — ways for me to stay present, aware, and connected.
+Outside of research, I practice tango and kendo — quiet disciplines that help me stay present, aware, and connected.
 
-Rather than defining myself by one title, I try to follow quiet questions and bring care into what I do.
+Rather than defining myself by a single title, I try to follow quiet questions and bring care to whatever I work on.
 
-This site is a small place to share that ongoing journey.
+This site is a small space to share that ongoing process.
