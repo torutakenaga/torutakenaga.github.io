@@ -3,17 +3,17 @@ layout: default
 title: "Movement"
 ---
 
-# 🕺 Movement
+# Movement
 
 *Exploring posture, precision, and presence through dance, martial arts, and music.*
 
 ---
 
-## 🩰 Tango
+## Tango
 
 Tango is my exploration of connection, balance, and emotional expression. I practice solo drills, partner improvisation, and performance technique.
 
-### 🎥 Videos
+### Videos
 - [ ] Embed Instagram or YouTube practice clips here
 
 ### 📓 Notes
@@ -22,25 +22,25 @@ Tango is my exploration of connection, balance, and emotional expression. I prac
 
 ---
 
-## 🥋 Kendo
+## Kendo
 
 Kendo helps me refine awareness, distance, and timing. My approach emphasizes posture, zanshin, and adaptability.
 
-### 🗒 Key Learnings
+### Key Learnings
 - [ ] Practice logs (link to Log if needed)
 - [ ] Training plans for footwork, seme, and striking
 
 ---
 
-## 🎹 Bandoneon
+## Bandoneon
 
 The bandoneon is both an instrument and a discipline. Practicing it deepens my understanding of flow and breath.
 
-### 🧪 Tools
+### Tools
 - [Virtual Bandoneon App](https://your-app-url.com) – Try it on your keyboard
 - [Sound samples](assets/sounds/) – Open/Close bellows demo
 
-### 📓 Practice Tips
+### Practice Tips
 - Start with open-only practice
 - Map finger memory before rhythm
 
