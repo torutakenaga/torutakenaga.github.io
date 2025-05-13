@@ -5,10 +5,10 @@
 
 ## Sections
 
+* [About](/about) — Who I am
 * [Projects](/projects) — Ongoing experiments in science, movement, and creation
 * [Works](/works) — Completed outputs and selected results
 * [Log](/log) — Daily records and learning traces
-* [About](/about) — Who I am
 * [Contact](/contact) — Inquiries and connections
 
 ---
