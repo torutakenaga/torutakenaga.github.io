@@ -12,16 +12,17 @@ title: "Log"
 ## Entries
 
 ### 2025-05-13
-**Theme:** Movement & Structure  
-- Afternoon: Bandoneon solo drills, “open bellows only” repetition  
-- Noted importance of **posture anchoring** before rotation in tango
+
+**Theme:** Web Update
+
+* Updated the structure and wording of the homepage
+
+---
 
 ### 2025-05-12
-**Theme:** Rhythm & Routine  
-- Installed updated virtual bandoneon interface with recorded samples
 
-### 2025-05-10
-**Theme:** Financial Awareness  
-- Paper trade tested Alpaca +2σ condition script
+**Theme:** Micro-Investing & Kendo
+
+* Purchased a fractional stock and attended kendo practice
 
 > These logs are not exhaustive. They reflect only what surfaced with clarity each day.
