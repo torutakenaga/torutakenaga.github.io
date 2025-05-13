@@ -5,12 +5,13 @@
 
 ## Navigation
 
-- [Lab](/lab) — In silico analysis, structure-based insight, and automation  
-- [Movement](/movement) — Tango, Kendo, Bandoneon, and posture exploration  
-- [Investment](/investment) — Small experiments in discipline and financial clarity  
+- [Lab](/lab) — Structure-based insight and automation  
+- [Movement](/movement) — Tango, Kendo, and Bandoneon  
+- [Investment](/investment) — Algorithmic trading and small-scale financial experiments  
 - [Log](/log) — Daily records and learning traces  
-- [About](/about) — Profile, CV, and ongoing work  
+- [About](/about) — Profile and CV  
 - [Contact](/contact) — Connect, collaborate, or say hello  
+
 
 ---
 
