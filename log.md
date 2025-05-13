@@ -1,21 +1,13 @@
-# Log
-
-*Daily records of thoughts, practices, and progress — quietly accumulated over time.*
-
----
-
 ## Entries
 
 ### 2025-05-13
-
-**Theme:** Web Update
-
+**Theme:** Web Update  
 * Updated the structure and wording of the homepage
 
 ### 2025-05-12
-
-**Theme:** Micro-Investing & Kendo
-
+**Theme:** Micro-Investing & Kendo  
 * Purchased a fractional stock and attended kendo practice
 
-> These logs are not exhaustive. They reflect only what surfaced with clarity each day.
+### 2025-05-08
+**Theme:** Website Launch  
+* Published personal website [torutakenaga.com](https://torutakenaga.com) for the first time
