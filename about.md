@@ -1,9 +1,29 @@
-# About
+---
+layout: default
+title: "About"
+---
 
-I’m a researcher with a background in infectious diseases, currently focusing on dry analysis and structural biology as ways to better understand viruses.
+# About Me
 
-Outside of research, I practice tango and kendo — quiet disciplines that help me stay present, aware, and connected.
+*I walk the line between data and expression, discipline and improvisation.*
 
-Rather than defining myself by a single title, I try to follow quiet questions and bring care to whatever I work on.
+---
 
-This site is a small space to share that ongoing process.
+## Researcher
+- Background in infectious diseases and structural biology
+- Dry analysis, modeling, and antigen stability
+- Current focus: structure-based vaccine standardization and virus-host interactions
+
+## Practitioner
+- Tango dancer, Kendo practitioner, and Bandoneon learner
+- Investigating posture, timing, and presence through movement
+- Choreography, improvisation, and solo exploration
+
+## Explorer
+- Active learner in data science, automation, and investment
+- Building tools and systems that support clarity and growth
+- Participant in the GCI program to deepen computational fluency
+
+---
+
+> *Rather than choosing one path, I follow the quiet threads that connect inquiry, creation, and contribution.*
