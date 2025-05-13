@@ -3,13 +3,13 @@ layout: default
 title: "Log"
 ---
 
-# 📓 Log
+# Log
 
 *Daily records of thoughts, practices, and progress — quietly accumulated over time.*
 
 ---
 
-## 🗂 Entries
+## Entries
 
 ### 2025-05-13
 **Theme:** Movement & Structure  
