@@ -16,7 +16,7 @@ Tango is my exploration of connection, balance, and emotional expression. I prac
 ### Videos
 - [ ] Embed Instagram or YouTube practice clips here
 
-### 📓 Notes
+### Notes
 - Axis control, breathing, walking exercises
 - Practice reflections (e.g., "Connection starts in the heel")
 
