@@ -6,23 +6,19 @@
 
 ## Structure
 
-* Antigen stability in influenza HA proteins
-* Crosslinking analysis of trimeric proteins
-* Pipeline development with Python and Jupyter
+* Antigen stability in influenza
+* Protein crosslinking analysis
 
 ## Movement
 
-* Tango solo routines and bandoneon coordination
-* Kendo drills and strategy logging
-* Biomechanical study in movement
+* Tango and bandoneon practice
+* Kendo training log
 
 ## Finance
 
-* Alpaca-based algorithmic trading
-* Statistical signal models in finance
-* Trade logging and hypothesis refinement
+* Algorithmic trading with Alpaca
+* Statistical models for signals
 
 ---
 
 > *These are small efforts — shaped little by little.*
-
