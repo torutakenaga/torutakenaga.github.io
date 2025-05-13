@@ -18,7 +18,6 @@
 
 * Alpaca trading bot (2025)
 * (coming soon)
-* (coming soon)
 
 ---
 
