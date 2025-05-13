@@ -1,29 +1,33 @@
 ---
+
 layout: default
 title: "About"
----
+--------------
 
-# About Me
+# About
 
-*I walk the line between data and expression, discipline and improvisation.*
-
----
-
-## Researcher
-- Background in infectious diseases and structural biology
-- Dry analysis, modeling, and antigen stability
-- Current focus: structure-based vaccine standardization and virus-host interactions
-
-## Practitioner
-- Tango dancer, Kendo practitioner, and Bandoneon learner
-- Investigating posture, timing, and presence through movement
-- Choreography, improvisation, and solo exploration
-
-## Explorer
-- Active learner in data science, automation, and investment
-- Building tools and systems that support clarity and growth
-- Participant in the GCI program to deepen computational fluency
+*Doing what I love, hoping it helps.*
 
 ---
 
-> *Rather than choosing one path, I follow the quiet threads that connect inquiry, creation, and contribution.*
+I’m a researcher with a background in infectious diseases, exploring how science, movement, and tools can quietly serve both personal curiosity and others' well-being.
+
+From modeling viruses to refining tango steps and building trading bots, I follow what I’m drawn to — with the hope that it becomes helpful to someone else, somewhere.
+
+Rather than aiming high, I try to stay steady and sincere in what I do.
+
+---
+
+## CV
+
+You can download my CV directly [here](/cv.pdf).
+
+Also available on:
+
+* [researchmap](https://researchmap.jp/torutakenaga)
+* [ORCID](https://orcid.org/0000-0002-1277-4156)
+* [LinkedIn](https://linkedin.com/in/torutakenaga)
+
+---
+
+> *Still learning, always building.*
