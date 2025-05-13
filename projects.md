@@ -17,7 +17,7 @@
 ## Finance
 
 * Algorithmic trading with Alpaca
-* Statistical models for signals
+
 
 ---
 
