@@ -6,7 +6,7 @@
 
 ## Structure
 
-* Antigen stability in influenza
+* Antigen stability in influenza HA
 * Protein crosslinking analysis
 
 ## Movement
