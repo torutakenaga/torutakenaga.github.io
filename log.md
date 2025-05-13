@@ -22,7 +22,6 @@ title: "Log"
 
 ### 2025-05-10
 **Theme:** Financial Awareness  
-- Logged first profit using 10-yen stock strategy  
 - Paper trade tested Alpaca +2σ condition script
 
 > These logs are not exhaustive. They reflect only what surfaced with clarity each day.
