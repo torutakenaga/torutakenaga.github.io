@@ -3,8 +3,6 @@ layout: default
 title: "Home"
 ---
 
-# Toru Takenaga
-
 *Connecting structure, movement, and thought through science, practice, and creation.*
 
 ---
