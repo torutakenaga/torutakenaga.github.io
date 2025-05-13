@@ -14,7 +14,7 @@ I try to stay steady and sincere in what I do.
 
 ## CV
 
-You can download my CV directly [here](/cv.pdf).
+You can download my CV directly [here](/CV_takenaga_2025_public.pdf).
 
 ---
 
