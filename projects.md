@@ -1,8 +1,3 @@
----
-layout: default
-title: "Projects"
------------------
-
 # Projects
 
 *Experiments in progress across science, movement, and tools.*
