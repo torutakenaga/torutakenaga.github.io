@@ -1,9 +1,3 @@
----
-
-layout: default
-title: "About"
---------------
-
 # About
 
 *Doing what I love, hoping it helps.*
