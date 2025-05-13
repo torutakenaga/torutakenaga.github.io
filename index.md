@@ -3,7 +3,7 @@
 
 ---
 
-## Navigation
+## Sections
 
 * [Projects](/projects) — Ongoing experiments in science, movement, and creation
 * [Works](/works) — Completed outputs and selected results
