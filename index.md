@@ -5,13 +5,11 @@
 
 ## Navigation
 
-- [Lab](/lab) — Structure-based insight and automation  
-- [Movement](/movement) — Tango, Kendo, and Bandoneon  
-- [Investment](/investment) — Algorithmic trading and small-scale financial experiments  
-- [Log](/log) — Daily records and learning traces  
-- [About](/about) — Profile and CV  
-- [Contact](/contact) — Connect, collaborate, or say hello  
-
+* [Projects](/projects) — Ongoing experiments in science, movement, and creation
+* [Works](/works) — Completed outputs and selected results
+* [Log](/log) — Daily records and learning traces
+* [About](/about) — Who I am
+* [Contact](/contact) — Inquiries and connections
 
 ---
 
