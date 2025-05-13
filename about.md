@@ -4,9 +4,9 @@
 
 ---
 
-I’m a researcher with a background in infectious diseases, exploring how science, movement, and tools can quietly serve both personal curiosity and others' well-being.
+I’m a researcher with a background in infectious diseases. My work explores how science, movement, and practical tools can quietly support both personal curiosity and collective well-being.
 
-From modeling viruses to refining tango steps and building trading bots, I follow what I’m drawn to — with the hope that it becomes helpful to someone else, somewhere.
+From modeling viruses and building trading bots to refining tango steps, I follow what draws me — with the hope it may be useful to someone, somewhere.
 
 Rather than aiming high, I try to stay steady and sincere in what I do.
 
@@ -16,12 +16,10 @@ Rather than aiming high, I try to stay steady and sincere in what I do.
 
 You can download my CV directly [here](/cv.pdf).
 
-Also available on:
-
-* [researchmap](https://researchmap.jp/torutakenaga)
-* [ORCID](https://orcid.org/0000-0002-1277-4156)
-* [LinkedIn](https://linkedin.com/in/torutakenaga)
-
 ---
 
-> *Still learning, always building.*
+## Channels
+
+* [GitHub](https://github.com/torutakenaga)
+* [Instagram](https://instagram.com/toru_takenaga)
+* [ORCID](https://orcid.org/0000-0002-1277-4156)
