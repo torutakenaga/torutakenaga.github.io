@@ -1,8 +1,3 @@
----
-layout: default
-title: "Log"
----
-
 # Log
 
 *Daily records of thoughts, practices, and progress — quietly accumulated over time.*
