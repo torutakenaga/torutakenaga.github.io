@@ -17,8 +17,6 @@ title: "Log"
 
 * Updated the structure and wording of the homepage
 
----
-
 ### 2025-05-12
 
 **Theme:** Micro-Investing & Kendo
