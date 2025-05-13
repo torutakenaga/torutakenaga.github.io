@@ -1,7 +1,3 @@
----
-layout: default
-title: "Home"
----
 
 *Connecting structure, movement, and thought through science, practice, and creation.*
 
