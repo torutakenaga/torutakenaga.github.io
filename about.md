@@ -6,9 +6,9 @@
 
 I’m a researcher with a background in infectious diseases. My work explores how science, movement, and practical tools can quietly support both personal curiosity and collective well-being.
 
-From modeling viruses and building trading bots to refining tango steps, I follow what draws me — with the hope it may be useful to someone, somewhere.
+From modeling viruses and building trading bots to refining tango steps and practicing the bandoneon, I follow what draws me — with the hope it may be useful to someone, somewhere.
 
-Rather than aiming high, I try to stay steady and sincere in what I do.
+I try to stay steady and sincere in what I do.
 
 ---
 
