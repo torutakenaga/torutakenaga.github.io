@@ -3,13 +3,13 @@
 Toru Takenaga is a researcher and movement practitioner based in Japan. He works in infectious disease and vaccine development, and explores tango and kendo through continuous, quiet motion. His focus is on how structure relates to function—both in science and in movement.
 
 ---
-> * Observe the structure. Choose the movement.*
+> *Observe the structure. Choose the movement.*
 >
-> * In science. In practice.*
+> *In science. In practice.*
 >
-> * Add nothing. Remove noise. Silence over sound. Intention over force.*
+> *Add nothing. Remove noise. Silence over sound. Intention over force.*
 >
-> * Every motion has intention. Like the music of Carlos Di Sarli.*
+> *Every motion has intention. Like the music of Carlos Di Sarli.*
 
 ---
 ## CV
