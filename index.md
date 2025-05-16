@@ -12,4 +12,4 @@
 
 ---
 
-> *This site is a quiet record of experiments.*
+> *This site is a partial record of my experiments.*
