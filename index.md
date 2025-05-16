@@ -1,8 +1,5 @@
 # Toru Takenaga
 
-**Researcher / Tango & Kendo Practitioner**
-> *I work with structure and movement — in science, and in practice.*
-
 ---
 
 ## Sections
@@ -15,4 +12,4 @@
 
 ---
 
-> *This site is a quiet record of experiments — scientific, physical, and expressive.*
+> *This site is a quiet record of experiments.*
