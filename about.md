@@ -1,14 +1,22 @@
 # About
 
-*Doing what I love, hoping it helps.*
+Observe the structure. Choose the movement.
+
+In science. On stage.
+
+Add nothing. Remove noise.  
+Silence over sound.  
+Intention over force.
+
+Every motion has intention.  
+That is enough.
 
 ---
 
-I’m a researcher with a background in infectious diseases. My work explores how science, movement, and practical tools can quietly support both personal curiosity and collective well-being.
-
-From modeling viruses and building trading bots to refining tango steps and practicing the bandoneon, I follow what draws me — with the hope it may be useful to someone, somewhere.
-
-I try to stay steady and sincere in what I do.
+Toru Takenaga is a researcher and movement artist based in Japan.  
+He works in infectious disease and vaccine development, focusing on structural analysis and system coordination.  
+In performance, he explores tango and kendo—emphasizing timing, restraint, and clarity of motion.  
+His approach connects scientific inquiry with physical expression through the lens of structure and function.
 
 ---
 
