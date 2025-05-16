@@ -1,6 +1,7 @@
 # About
 
-Toru Takenaga is a researcher and movement practitioner based in Japan. He works in infectious disease and vaccine development, and explores tango and kendo through the relationship between structure, motion, and control.
+I explore the intersection of science and movement.  
+In both, I look at how structure shapes function — and how energy moves through intention and control.
 
 ---
 ## CV
