@@ -28,5 +28,5 @@ You can download my CV directly [here](/CV_25.pdf).
 >
 > *Add nothing. Remove noise. Silence over sound. Intention over force.*
 >
-> *Every motion has intention.
+> *Every motion has intention.*
 > *Like the music of Carlos Di Sarli.*
