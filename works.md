@@ -6,18 +6,18 @@
 
 ## Movement
 
-* (coming soon)
-* (coming soon)
+* (in progress)
+* (in progress)
 
 ## Bandoneon
 
 * [Virtual bandoneon prototype (2025)](https://torutakenaga.com/virtual-bandoneon-web/)
-* (coming soon)
+* (in progress)
 
 ## Finance
 
-* (coming soon)
-* (coming soon)
+* (in progress)
+* (in progress)
 
 ---
 
