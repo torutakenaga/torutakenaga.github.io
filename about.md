@@ -14,10 +14,9 @@ Like the music of Carlos Di Sarli.
 
 ---
 
-Toru Takenaga is a researcher and movement artist based in Japan.  
-He works in infectious disease and vaccine development, focusing on structural analysis and system coordination.  
-In performance, he explores tango and kendo —emphasizing timing, restraint, and clarity of motion.  
-His approach connects scientific inquiry with physical expression through the lens of structure and function.
+Toru Takenaga is a researcher and movement artist based in Japan.
+He works in infectious disease and vaccine development, and practices tango and kendo through continuous, quiet motion.
+His focus lies in the connection between structure and function—both in science and in movement.
 
 ---
 
