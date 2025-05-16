@@ -1,10 +1,7 @@
 # Toru Takenaga
 
 **Researcher / Tango & Kendo Practitioner**
-
-—
-
->　I work with movement and structure —  
+>　I work with movement and structure 
 >　in science, and in practice.
 
 ---
