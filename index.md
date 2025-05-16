@@ -1,5 +1,15 @@
 
-*Connecting structure, movement, and thought through science, practice, and creation.*
+
+*Observe the structure. Choose the movement.
+
+In science. In practice.
+
+Add nothing. Remove noise.  
+Silence over sound.  
+Intention over force.
+
+Every motion has intention.  
+Like the music of Carlos Di Sarli*
 
 ---
 
