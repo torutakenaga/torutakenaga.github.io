@@ -1,7 +1,14 @@
 # About
 
-I explore the intersection of science and movement.  
-In both, I look at how structure shapes function — and how energy moves through intention and control.
+Toru Takenaga is a researcher based in Japan, specializing in infectious disease and vaccine development.
+
+He began practicing tango in 2015 and founded the Kyoto Tango Club in 2016, evolving from the Kyoto University Tango Society.
+He regularly performs at both stage events and milongas, with appearances in cities including Tokyo, Osaka, Kyoto, Fukuoka, and Seoul. 
+He serves as a dancer with the KANSAI Tango Orquesta, performing as part of their regular ensemble.
+
+Toru has trained in kendo since 1998. From 2004 to 2009, he lived in the UK and Ireland, where he continued his training and served as an assistant coach for the Ireland National Kendo Team. He currently holds a 6th dan in kendo.
+
+He continues to pursue both scientific research and movement disciplines in parallel.
 
 ---
 ## CV
