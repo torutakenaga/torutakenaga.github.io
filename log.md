@@ -1,6 +1,10 @@
 # Log
 ## Entries
 
+### 2025-05-16  
+**Theme:** Website Update  
+* Refined About section
+
 ### 2025-05-13
 **Theme:** Web Update  
 * Updated the structure and wording of the homepage
