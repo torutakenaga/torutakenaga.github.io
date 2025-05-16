@@ -9,7 +9,8 @@ Silence over sound.
 Intention over force.
 
 Every motion has intention.  
-That is enough.
+Like the music of Carlos Di Sarli.
+
 
 ---
 
