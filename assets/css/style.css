@@ -2,7 +2,7 @@
 body {
   background-color: #000000;
   color: #ffffff;
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  font-family: "Arial Narrow", "Yu Gothic", "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
   font-size: 1rem;
   line-height: 1.7;
   margin: 0;
@@ -15,6 +15,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   margin-top: 2rem;
   margin-bottom: 1rem;
+  font-stretch: condensed; /* for Arial Narrow if supported */
 }
 
 /* Links */
@@ -50,4 +51,15 @@ blockquote {
   color: #cccccc;
   font-style: italic;
   margin: 1.5rem 0;
+}
+
+/* Selection highlight */
+::selection {
+  background-color: #f7e28b; /* soft yellow */
+  color: #000000;
+}
+
+::-moz-selection {
+  background-color: #f7e28b;
+  color: #000000;
 }
