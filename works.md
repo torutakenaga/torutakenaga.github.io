@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/style.css">
+
 # Works
 
 *Outcomes shaped through personal inquiry and practice.*
