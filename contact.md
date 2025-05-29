@@ -30,5 +30,5 @@ Please feel free to share the details of your project or event.
 ## Tango Profile
 
 You can find my full profile here:  
-[https://torutakenaga.com/profile](https://torutakenaga.com/profile)
+[Profile](https://torutakenaga.com/profile)
 
