@@ -8,8 +8,10 @@ While maintaining day jobs during the week, they dedicate their time to promotin
 Their activities include event performances, hosting weekly practice sessions (Kyoto Tango Club), inviting international artists, and supporting planning and operations.  
 They are also featured dancers for the **KANSAI Tango Orquesta**.
 
-<img src="data/1.jpg" alt="Toru & Etsuko" style="width: 60vw; height: auto; display: block; margin: 0 auto;">
-*Photo © Miguel Santillan*
+<div style="text-align: center;">
+  <img src="data/1.jpg" alt="Toru & Etsuko" style="width: 60vw; height: auto;"><br>
+  <span style="font-size: 0.9em; color: #555;">Photo © Miguel Santillan</span>
+</div>
 
 ---
 
