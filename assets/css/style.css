@@ -28,13 +28,14 @@ a:hover {
   opacity: 0.75;
 }
 
-/* Code blocks */
+/* Code blocks - glowing yellow effect */
 code, pre {
-  background-color: #111111;
-  color: #ffffff;
+  background-color: #2b2300; /* deep amber */
+  color: #ffe599; /* soft yellow */
   font-family: monospace;
   padding: 0.3em 0.5em;
   border-radius: 4px;
+  box-shadow: 0 0 4px rgba(255, 255, 150, 0.3); /* gentle glow */
 }
 
 /* Horizontal rules */
@@ -53,13 +54,13 @@ blockquote {
   margin: 1.5rem 0;
 }
 
-/* Selection highlight – Aqua */
+/* Selection highlight – soft cream */
 *::selection {
-  background-color: #00ffff !important;
+  background-color: #fff7cc !important;  /* gentle yellow highlight */
   color: #000000 !important;
 }
 
 *::-moz-selection {
-  background-color: #00ffff !important;
+  background-color: #fff7cc !important;
   color: #000000 !important;
 }
