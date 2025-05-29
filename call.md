@@ -18,7 +18,7 @@ This is not a service but a creative collaboration. Selected participants will b
 * Cost: No fee for the session itself; actual expenses only (transportation, location rental, if needed)
 * Format: Selection-based — not first-come, first-served
 
-[View full details and apply](https://torutakenaga.com/01_2025/)
+https://torutakenaga.com/01_2025
 
 ---
 
