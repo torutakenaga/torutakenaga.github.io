@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/style.css">
+
 # Profile
 *Last updated: August 25, 2024*
 
