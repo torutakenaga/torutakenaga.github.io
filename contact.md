@@ -1,32 +1,32 @@
 # Contact
 
 Thank you for your interest.  
-If you would like to get in touch, please use the form below.
+If you'd like to get in touch, please use the form below:
 
 [Contact Form](https://docs.google.com/forms/d/e/1FAIpQLSdIPXna2J1MAZLfDUwUMGxUSdux2mI2KmXaXxK5FaISOck3HQ/viewform?usp=header)
 
-I will respond as soon as I can.
+I will get back to you as soon as possible.
 
 ---
 
 ## Alternatively
 
-You can also contact me directly by email:  
-**torutakenaga[at]gmail.com**
+Feel free to contact me directly by email:  
+📧 **torutakenaga[at]gmail.com**
 
 ---
 
-## Dance Appearance Requests
+## Argentine Tango Appearance Requests
 
-I accept appearance requests for Argentine tango performances.  
+I accept appearance requests for Argentine Tango performances.  
 Depending on the purpose and nature of the event, I am generally available with only actual expenses covered (e.g., transportation).
 
-All requests are reviewed individually.  
-Please feel free to get in touch and share the details of your project or event.
+Each request will be reviewed individually.  
+Please don’t hesitate to share the details of your project or event.
 
 ---
 
-## Japanese Profile
+## Profile in Japanese
 
-For my profile in Japanese, please visit:  
+My Argentine Tango profile is currently available only in Japanese.  
 [プロフィール（日本語）はこちら](/profile)
