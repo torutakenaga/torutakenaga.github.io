@@ -19,6 +19,4 @@
 * Algorithmic trading with Alpaca
 
 
----
 
-> *These are small efforts — shaped little by little.*
