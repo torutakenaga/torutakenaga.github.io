@@ -1,8 +1,7 @@
-# Toru & Etsuko  
+# Profile
 *Last updated: August 25, 2024*
 
-## Profile
-
+## Toru & Etsuko  
 Formed as a pair in 2017.  
 While maintaining day jobs during the week, they dedicate their time to promoting Argentine Tango, mainly based in Kyoto.  
 Their activities include event performances, hosting weekly practice sessions (Kyoto Tango Club), inviting international artists, and supporting planning and operations.  
