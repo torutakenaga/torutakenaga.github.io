@@ -84,7 +84,7 @@ They are also featured dancers for the KANSAI Tango Orquesta.
 
 ## Publications
 
-- *Dance View* Magazine (Oct 2019): Featured Kyoto Tango Club (formerly Kyoto University Tango Society)  
+- *Dance View* Magazine (Oct 2019): Featured Kyoto Tango Club
 
 ---
 
