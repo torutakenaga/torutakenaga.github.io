@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   margin-top: 2rem;
   margin-bottom: 1rem;
-  font-stretch: condensed; /* for Arial Narrow if supported */
+  font-stretch: condensed;
 }
 
 /* Links */
@@ -53,13 +53,13 @@ blockquote {
   margin: 1.5rem 0;
 }
 
-/* Selection highlight */
+/* Selection highlight – Aqua */
 *::selection {
-  background-color: #f7e28b !important; /* soft yellow */
+  background-color: #00ffff !important;
   color: #000000 !important;
 }
 
 *::-moz-selection {
-  background-color: #f7e28b !important;
+  background-color: #00ffff !important;
   color: #000000 !important;
 }
