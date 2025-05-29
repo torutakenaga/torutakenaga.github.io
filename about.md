@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/style.css">
 # About
 
 Toru Takenaga is a researcher based in Japan, specializing in infectious disease and vaccine development.
