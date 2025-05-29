@@ -19,6 +19,3 @@
 * (in progress)
 * (in progress)
 
----
-
-> *A quiet archive of small things I’ve made along the way.*
