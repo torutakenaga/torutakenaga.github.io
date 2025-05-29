@@ -22,4 +22,4 @@
 
 ### 2025-05-08
 **Theme:** Website Launch  
-* Published personal website [torutakenaga.com](https://torutakenaga.com) for the first time
+* Published personal website for the first time
