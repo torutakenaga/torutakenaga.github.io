@@ -12,18 +12,22 @@ I will get back to you as soon as possible.
 ## Alternatively
 
 Feel free to contact me directly by email:  
-📧 **torutakenaga[at]gmail.com**
+**torutakenaga[at]gmail.com**
 
 ---
 
 ## Argentine Tango Appearance Requests
 
-I accept appearance requests for Argentine Tango performances.  
-Depending on the purpose and nature of the event, I am generally available with only actual expenses covered (e.g., transportation).
+I welcome invitations for Argentine Tango performances.  
+Depending on the nature and purpose of the event, I am generally available with only actual expenses covered (e.g., transportation).
 
-Each request will be reviewed individually.  
-Please don’t hesitate to share the details of your project or event.
+Each request is carefully considered.  
+Please feel free to share the details of your project or event.
 
-### Tango Profile
+---
 
-You can find my full profile [here](/profile)
+## Tango Profile
+
+You can find my full profile here:  
+[https://torutakenaga.com/profile](https://torutakenaga.com/profile)
+
