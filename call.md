@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/style.css">
+
 # Call for Participation
 
 This section introduces current open invitations for collaboration and participation.
