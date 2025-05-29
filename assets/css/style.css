@@ -1,0 +1,25 @@
+/* style.css: dark theme */
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: sans-serif;
+  line-height: 1.6;
+  padding: 2rem;
+}
+
+a {
+  color: #66ccff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #99ddff;
+  text-decoration: underline;
+}
+
+code, pre {
+  background-color: #222;
+  color: #eee;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+}
