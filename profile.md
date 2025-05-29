@@ -1,4 +1,4 @@
-# Toru & Etsuko – Tango Activity History  
+# Toru & Etsuko  
 *Last updated: August 25, 2024*
 
 ## Profile
