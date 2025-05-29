@@ -29,4 +29,3 @@ You can download my CV directly [here](/CV_25.pdf).
 For a detailed record of tango performances, events, and collaborations, visit the  
 [Full Tango Profile](/profile)
 
----
