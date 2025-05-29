@@ -30,6 +30,3 @@ For a detailed record of tango performances, events, and collaborations, visit t
 [Full Tango Profile](/profile)
 
 ---
-
-> *Silence over sound.*  
-> *Like the music of Carlos Di Sarli.*
