@@ -116,8 +116,4 @@ They are also featured dancers for the KANSAI Tango Orquesta.
 
 ---
 
-## Upcoming Appearances
-
-To be updated regularly.
-
 📩 For performance requests or inquiries, please visit the [Contact Page](https://torutakenaga.com/contact)
