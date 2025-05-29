@@ -19,7 +19,14 @@ You can also contact me directly by email:
 ## Dance Appearance Requests
 
 I accept appearance requests for Argentine tango performances.  
-Depending on the purpose and nature of the event, I am generally available with only actual expenses covered (e.g. transportation).
+Depending on the purpose and nature of the event, I am generally available with only actual expenses covered (e.g., transportation).
 
 All requests are reviewed individually.  
 Please feel free to get in touch and share the details of your project or event.
+
+---
+
+## Japanese Profile
+
+For my profile in Japanese, please visit:  
+[プロフィール（日本語）はこちら](/profile)
