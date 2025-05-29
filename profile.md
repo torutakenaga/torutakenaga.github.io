@@ -14,7 +14,7 @@ They are also featured dancers for the KANSAI Tango Orquesta.
 
 ---
 
-## Performance History (Selected)
+## Performance History 
 
 - 2017, 2018: Performed with actress Aya Sugimoto at her birthday party, Repos Gion, Kyoto  
 - Sep 2018: Tango performance at Hankyu Umeda Store’s Latin Bazaar Exhibition, Osaka  
