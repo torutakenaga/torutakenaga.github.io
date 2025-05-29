@@ -11,7 +11,3 @@
 * [Log](/log) — Daily records and learning traces  
 * [Contact](/contact) — Inquiries and connections
 
----
-
-> *This site is a partial record of my experiments.*
-
