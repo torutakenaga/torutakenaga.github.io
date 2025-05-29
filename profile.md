@@ -1,123 +1,121 @@
-## Toru & Etsuko タンゴ活動履歴（2024/8/25 更新）
+# Toru & Etsuko – Tango Activity History  
+*Last updated: August 25, 2024*
 
-### プロフィール
+## Profile
 
-2017年にペア結成。平日はダンス以外の仕事をしながら、タンゴを普及すべく、主に京都にて活動中。イベントへの出演ほか、毎週末の練習会開催（Kyoto Tango Club）、海外アーティストの招聘、企画・運営のサポートを行なっている。また、KANSAI Tango Orquesta専属ダンサーとしても活動中。
+Formed as a pair in 2017.  
+While maintaining day jobs during the week, they dedicate their time to promoting Argentine Tango, mainly based in Kyoto.  
+Their activities include event performances, hosting weekly practice sessions (Kyoto Tango Club), inviting international artists, and supporting planning and operations.  
+They are also featured dancers for the **KANSAI Tango Orquesta**.
 
 <img src="data/1.jpg" alt="Toru & Etsuko" style="width: 60vw; height: auto; display: block; margin: 0 auto;">
 *Photo © Miguel Santillan*
 
 ---
 
-### 出演歴
+## Performance History (Selected)
 
-* 京都 祇園Repos 女優 杉本彩の誕生日パーティーにて杉本彩本人と共演 2017年、2018年
-* 大阪 阪急うめだ店「ラテンバザール展 タンゴ」2018年9月
-* 大阪 関西領事団会合「Latin American Evening」2019年6月7日
-* 大阪 すてっぷホール カンサイ・タンゴ・オルケスタ 第1回記念コンサート 2019年10月22日
-* 滋賀 東洋紡総合研究所60周年イベント 2020年11月16日
-* 京都 烏丸御池 灯 「アルゼンチンタンゴショー」 2020年11月23日
-* 大阪 豊中市文化芸術センター 小ホール カンサイ・タンゴ・オルケスタ　第2回定期コンサート 2020年12月20日
-* 京都 文化パルク城陽プラネタリウム「アルゼンチンタンゴ〜100年の情熱〜」 2021年2月20日
-* 京都 烏丸御池 灯 「Akari Milonga in Kyoto」 2021年3月20日
-* 京都 文化パルク城陽プラネタリウム「真夏の夜のタンゴ」2021年8月29日
-* 大阪 西天満 カフェティン・デ・ブエノスアイレス「アルゼンチンタンゴショー」2021年10月30、31日
-* 東京 銀座 リベルタンゴ「Platinum Milonga Special」 2021年11月3日
-* 大阪 京橋ベロニカ 「Love Passion Tangoshow 〜愛と情熱のタンゴショー〜」2021年12月27日
-* 大阪 京橋ベロニカ 「Tango Fantasia 2021 〜タンゴ・ファンタシア2021〜」2021年12月30日
-* 京都 文化パルク城陽プラネタリウム「タンゴ〜ブエノスアイレスの街角より〜」2022年3月6日
-* 福岡 ティエンポ・イベロアメリカーノ「サクラタンゴフェスティバル 2022 After Milonga」2022年4月10日
-* 大阪 西天満 カフェティン・デ・ブエノスアイレス「Ensueno Milonga」2022年5月29日
-* 大阪 SPinniNG MiLL 「KANSAI Tango Orquesta Spring Live」2022年6月5日
-* 大阪 グランサロン十三「OSAKA TANGO WEEKEND」2022年7月17日
-* 大阪 心斎橋Music Club JANUS 「ELLA BAILA —Tango Live Show 2022, ナタリア・ヒルズ アジアツアー2022」2022年8月14日
-* 滋賀 旧大津公会堂 第34回サルサ・カンデーラ　ージャパン・アフロ・ラテン・フェス2022ー　2022年8月15日
-* 京都 文化パルク城陽プラネタリウム「星空のアルゼンチンタンゴ」2022年8月20日
-* 大阪 西天満 カフェティン・デ・ブエノスアイレス「アルゼンチンタンゴライブ」2022年8月21日
-* 兵庫 宝塚EL Puente「El Puente Milonga」 2022年8月27日
-* 大阪 西天満 カフェティン・デ・ブエノスアイレス「Millonga Berretin」2022年9月3日
-* 大阪 SPinniNG MiLL「KANSAI Tango Orquesta Autumn Concert」2022年11月23日
-* 京都 祇園Para Dos 「クリスマスミロンガ — Special Guests : Fabian Peralta y Josefina Bermudez— 」2022年12月4日
-* 京都 北山モノリス 「花パーティー」 2023年1月8日
-* 京都 河原町 カフェ・ルンビータ「Tango Grelio第3版CD発売記念 京都公演」 2023年1月15日
-* 京都 京都コンサートホール アンサンブルホールムラタ A Hana of music 音楽の仲間「花」第37回コンサート　〜ひとひら、ひとひらの花びらでひとつの「花」を〜 2023年2月19日
-* 韓国 ソウル Mapo Art Center劇場「EL CXUCLE Theater Show, 監修Facundo Piñero & Vanesa Villalba」2022年2月26日
-* 京都 文化パルク城陽プラネタリウム「Tango Cinematico 〜ロマンティックタンゴと映画音楽の世界〜」2023年3月4日
-* 東京 駒込タンゴ・リトゥモ 「Ritmo Milonga」2022年4月1日
-* 福岡 ティエンポ・イベロアメリカーノ「サクラタンゴフェスティバル 2023 After Milonga」2022年4月8日
-* 兵庫 宝塚EL Puente「El Puente Milonga」 2023年4月22日
-* 京都 ヒューリックホール京都「第67回サルサ・カンデーラ 京都国際ラテンダンス・ミュージックフェスティバル」2023年5月4日
-* 京都 京あんしんこども館 「第9回すこやかサロン」2023年6月16日
-* 京都 京都コンサートホール アンサンブルホールムラタ A Hana of music 音楽の仲間「花」第38回コンサート　〜ひとひら、ひとひらの花びらでひとつの「花」を〜 2023年8月13日
-* 京都 けやきの夏祭り「アルゼンチンタンゴの演奏・ダンス♪」2023年8月19日
-* 大阪 SPinniNG MiLL「KANSAI Tango Orquesta Summer Concert」2023年8月20日
-* 大阪 西天満 カフェティン・デ・ブエノスアイレス「Berretin Milonga」2023年9月17日
-* 京都 ヒューリックホール京都 「Kyoto Anniversary Milonga - ルンビータ20周年・ロドリゴ生誕70周年記念 - 」2023年10月7日
-* 岡山 ホワイトキャンバス「ビバ★タンゴ!! 〜アルゼンチンタンゴ　見て、聴いて、踊って楽しむ音楽とダンス〜」 2023年10月21日
-* 広島 BAR & Space9 「広島タンゴ感謝祭 可惜夜ミロンガ（最終夜）」 2023年10月29日
-* 京都 烏丸御池 水田ダンススタジオ「ハートフルに踊ろう El dia dio Tango KYOTO」2023年12月10日
-* 大阪 堺 フェニーチェ堺小ホール「KANSAI Tango Orquesta Concert -EL TANGO-」2024年1月27日
-* 大阪 大阪市立旭区民センター・小ホール 旭でレクチャーコンサート「アルゼンチンタンゴの世界」 vol.4 〜タンゴ＋ダンス＆タンゴ＋ジャズ〜2024年2月18日
-* 東京 赤坂 Parados 「For export」 2024年2月29日
-* 東京 東京芸術劇場前野外広場 アルゼンチンタンゴ Flash Mob 2024年3月3日
-* 福岡 ティエンポ・イベロアメリカーノ「サクラタンゴフェスティバル 2024 After Milonga」2024年3月23日
-* 大阪 中央公会堂 大集会室「Memorias De CARLOS GARDEL -追憶 Osaka Tango meets Leonardo Pastore-大阪公演」2024年3月31日
-* 京都 Parados Tango Dream 2024年4月7日
-* 大阪 阪急電車なにわ駅 アートエリアB1 「Kansai Tango Orquesta, 駅ナカでタンゴ」2024年5月18日
-* 京都 けやきの夏祭り「アルゼンチンタンゴの演奏・ダンス♪」2024年8月17日
-* 京都 京都コンサートホール アンサンブルホールムラタ A Hana of music 音楽の仲間「花」第40回コンサート　〜ひとひら、ひとひらの花びらでひとつの「花」を〜 2024年8月18日
-* 大阪 SPinniNG MiLL「KANSAI Tango Orquesta Summer Concert」2024年8月25日
-
----
-
-### ラジオ・TV出演
-
-* FM79.7 ラジオカフェ京都三条：Ricaのタンゴ・カフェへようこそ！ OA ゲスト：武長 徹「踊り子（Danzarin）」2019年12月19日
-* 朝日放送テレビ：「芸能人格付けチェック！ 2022お正月スペシャル」チェック4「アルゼンチンタンゴ」2022年1月1日
+- 2017, 2018: Performed with actress Aya Sugimoto at her birthday party, Repos Gion, Kyoto  
+- Sep 2018: Tango performance at Hankyu Umeda Store’s Latin Bazaar Exhibition, Osaka  
+- Jun 7, 2019: Latin American Evening hosted by the Kansai Consular Corps, Osaka  
+- Oct 22, 2019: KANSAI Tango Orquesta 1st Memorial Concert, Step Hall, Osaka  
+- Nov 16, 2020: 60th Anniversary Event at Toyobo Research Institute, Shiga  
+- Nov 23, 2020: Argentine Tango Show at “Akari” Karasuma-Oike, Kyoto  
+- Dec 20, 2020: KANSAI Tango Orquesta 2nd Concert, Toyonaka Arts Center, Osaka  
+- Feb 20, 2021: Planetarium Concert “100 Years of Passion for Tango”, Kyoto  
+- Mar 20, 2021: “Akari Milonga in Kyoto” Performance  
+- Aug 29, 2021: “Midsummer Night’s Tango” Planetarium Concert, Kyoto  
+- Oct 30–31, 2021: Tango Show at Cafetín de Buenos Aires, Osaka  
+- Nov 3, 2021: Platinum Milonga Special, Libertango, Ginza, Tokyo  
+- Dec 27 & 30, 2021: Tango Shows “Love Passion” and “Tango Fantasia 2021”, Kyobashi Veronica, Osaka  
+- Mar 6, 2022: “Tango: From the Streets of Buenos Aires” Planetarium Concert, Kyoto  
+- Apr 10, 2022: Sakura Tango Festival 2022 After Milonga, Fukuoka  
+- May 29, 2022: “Ensueno Milonga” at Cafetín de Buenos Aires, Osaka  
+- Jun 5, 2022: KANSAI Tango Orquesta Spring Live at SPinniNG MiLL, Osaka  
+- Jul 17, 2022: Osaka Tango Weekend at Grand Salon Juso, Osaka  
+- Aug 14, 2022: ELLA BAILA – Tango Live Show, Natalia Hills Asia Tour, Osaka  
+- Aug 15, 2022: Salsa Candela Afro-Latin Festival Japan, Otsu City Hall, Shiga  
+- Aug 20, 2022: Planetarium Concert “Argentine Tango under the Stars”, Kyoto  
+- Aug 21, 2022: Argentine Tango Live at Cafetín de Buenos Aires, Osaka  
+- Aug 27, 2022: El Puente Milonga, Takarazuka, Hyogo  
+- Sep 3, 2022: “Milonga Berretin” at Cafetín de Buenos Aires, Osaka  
+- Nov 23, 2022: KANSAI Tango Orquesta Autumn Concert at SPinniNG MiLL, Osaka  
+- Dec 4, 2022: “Christmas Milonga” with Special Guests: Fabian Peralta & Josefina Bermudez, Kyoto  
+- Jan 8, 2023: “Hana Party” at Kitayama Monolith, Kyoto  
+- Jan 15, 2023: CD Release Milonga for Tango Grelio Vol.3 at Café Rumbita, Kyoto  
+- Feb 19, 2023: “Hana” 37th Concert at Kyoto Concert Hall  
+- Feb 26, 2023: “EL CXUCLE Theater Show”, Seoul, Korea  
+- Mar 4, 2023: “Tango Cinematico” Planetarium Concert, Kyoto  
+- Apr 1, 2023: Ritmo Milonga, Tokyo  
+- Apr 8, 2023: Sakura Tango Festival 2023 After Milonga, Fukuoka  
+- Apr 22, 2023: El Puente Milonga, Takarazuka  
+- May 4, 2023: Salsa Candela Kyoto Latin Festival  
+- Jun 16, 2023: “Sukoyaka Salon #9”, Kyoto  
+- Aug 13, 2023: “Hana” 38th Concert, Kyoto  
+- Aug 19, 2023: Keyaki Summer Festival, Kyoto  
+- Aug 20, 2023: KANSAI Tango Orquesta Summer Concert, Osaka  
+- Sep 17, 2023: “Berretin Milonga”, Osaka  
+- Oct 7, 2023: Kyoto Anniversary Milonga – Rumbita 20th & Rodrigo’s 70th  
+- Oct 21, 2023: Viva★Tango!! Show, Okayama  
+- Oct 29, 2023: Hiroshima Tango Thanksgiving Final Milonga  
+- Dec 10, 2023: “El día dio Tango KYOTO”, Kyoto  
+- Jan 27, 2024: “EL TANGO” Concert, Sakai  
+- Feb 18, 2024: “Argentine Tango World vol.4”, Osaka  
+- Feb 29, 2024: “For Export”, Tokyo  
+- Mar 3, 2024: Argentine Tango Flash Mob, Tokyo  
+- Mar 23, 2024: Sakura Tango Festival 2024 After Milonga, Fukuoka  
+- Mar 31, 2024: “Memorias de Carlos Gardel” Osaka Concert  
+- Apr 7, 2024: “Parados Tango Dream”, Kyoto  
+- May 18, 2024: Tango in the Station – Naniwa Station, Osaka  
+- Aug 17, 2024: Keyaki Summer Festival, Kyoto  
+- Aug 18, 2024: “Hana” 40th Concert, Kyoto  
+- Aug 25, 2024: KANSAI Tango Orquesta Summer Concert, Osaka  
 
 ---
 
-### 掲載記事
+## Media Appearances
 
-* ダンス雑誌「ダンスビュー」（2019年10月号）：京タンゴ同好会（現：Kyoto Tango Club）について
-
----
-
-### 受賞歴
-
-* 2019年4月14日：アルゼンチンタンゴダンスアジア選手権西日本大会 ピスタ部門 人気投票 第1位
-* 2021年9月12日：OPEN DUTCH TANGUERIL（オンライン開催）優勝
+- Dec 19, 2019: FM79.7 Kyoto Radio Café – Rica’s Tango Café (Guest: Toru Takenaga)  
+- Jan 1, 2022: ABC TV – Geinoujin Kakuzuke Check 2022 New Year Special – Tango Segment  
 
 ---
 
-### 主催・協力イベント
+## Publications
 
-* 練習会：京タンゴ同好会（現：Kyoto Tango Club）毎週土曜日10−13時, 2018年12月−現在
-* イベント：体験会、第3月曜日、京都市中京区⻘少年活動センター 2019年9月−2020年1月(新型コロナの影響により中止) 
-* ベント：京都 河原町 カフェ・ルンビータ「パブロ・マナセロ & ルシア・ピビドリ 日本ツアー 2019」2019年8月24日
-* イベント：パブロ・マナセロ & Lucia Pividori Japan Tour 2019 in Osaka, Cafetin de Buenos Aires(大阪) 2019年8月31日,9月1日
-* コンサート：大阪 すてっぷホール カンサイ・タンゴ・オルケスタ 第1回記念コンサート 2019年10月22日
-* イベント：Ernesto y Paola in Kyoto, Café Rumbita (京都・木屋町) 第5土曜日13−17時, 2019年10月26日−2022年10月31日
-* コンサート：京都 カフェ・ルンビータ Kansai Tango Orquesta四重奏ライブ2021年2月6日
-* コンサート：大阪 西天満 カフェティン・デ・ブエノスアイレス「Kansai Tango Orquesta アルゼンチンタンゴショー」 2021年10月16、17日
-* イベント：NPO法人日本タンゴセラピー協会、ボランティア説明＆体験会2020年1月4日
-* コンサート：大阪 大阪市中央公会堂中集会室 「Osaka Tango Festival 2020」 2020年11月29日
-* イベント：NPO法人日本ラテン文化振興協会「第34回サルサ・カンデーラ　ージャパン・アフロ・ラテン・フェス2022ー」 2022年8月15日、16日
-* コンサート：京都 ヒューリックホール京都「アルゼンチンタンゴ・コンサート　ーいまをともに、そして未来へー」2022年5月3日
-* コンサート：大阪 中央公会堂 大集会室「ピアソラ生誕100周年没後30周年記念　ー生と死の世界ー　大阪公演」2022年11月13日
-* イベント：NPO法人日本タンゴセラピー協会、ボランティア説明＆体験会2022年10月16日
-* コンサート：京都 NAM HALL 「アルゼンチンタンゴ・コンサート京都公演 Hiltula-Tanimoto-Tsutsumi Trio」2022年9月25日
-* イベント：大阪・京都 Agostina Tarchini in Osaka, Kyoto 2023年1月27−29日
-* イベント：京都 京都文化博物館別館ホール「日亜修好125年記念事業 京都タンゴ美術館2023」2023年9月18日
-* イベント：京都 ヒューリックホール京都 「Kyoto Anniversary Milonga - ルンビータ20周年・ロドリゴ生誕70周年記念 - 」2023年10月7,8日
-* イベント：東京 東京芸術劇場前野外広場 アルゼンチンタンゴ Flash Mob 2024年3月3日
+- *Dance View* Magazine (Oct 2019): Featured Kyoto Tango Club (formerly Kyoto Tango Circle)  
 
 ---
 
-### 今後の予定
+## Awards
 
-随時更新
+- Apr 14, 2019: 1st Place (Audience Vote), Tango Pista – Asia Championship West Japan  
+- Sep 12, 2021: Winner, OPEN DUTCH TANGUERIL (Online)  
 
 ---
 
-📩 **出演依頼・お問い合わせは[こちらのページへ](https://torutakenaga.com/contact)**
+## Hosted / Collaborative Events
+
+- Weekly Practice: Kyoto Tango Club, Sat 10:00–13:00, since Dec 2018  
+- Tango Trial Events: Kyoto Youth Activity Center (Sep 2019–Jan 2020, suspended due to COVID-19)  
+- Pablo Manassero & Lucia Pividori Japan Tour – Kyoto (Aug 24, 2019), Osaka (Aug 31–Sep 1)  
+- Ernesto & Paola in Kyoto: Rumbita, every 5th Saturday (2019–2022)  
+- Kansai Tango Orquesta Quartet Live – Kyoto (Feb 6, 2021)  
+- Tango Shows – Cafetín de Buenos Aires, Osaka (Oct 2021)  
+- Tango Therapy Japan: Volunteer Briefings (Jan 2020, Oct 2022)  
+- Osaka Tango Festival 2020 – Osaka Central Public Hall (Nov 29, 2020)  
+- Salsa Candela Afro-Latin Festival Japan 2022 (Aug 15–16)  
+- “Tango for the Future” Concert – Kyoto (May 3, 2022)  
+- Piazzolla 100th Anniversary Concert – Osaka (Nov 13, 2022)  
+- Tango Concert – Hiltula-Tanimoto-Tsutsumi Trio, Kyoto (Sep 25, 2022)  
+- Agostina Tarchini Japan Tour – Osaka/Kyoto (Jan 27–29, 2023)  
+- 125th Japan–Argentina Friendship – Kyoto Tango Art Museum (Sep 18, 2023)  
+- Kyoto Anniversary Milonga – Rumbita & Rodrigo (Oct 7–8, 2023)  
+- Tango Flash Mob – Tokyo Metropolitan Theatre (Mar 3, 2024)  
+
+---
+
+## Upcoming Appearances
+
+To be updated regularly.
+
+📩 For performance requests or inquiries, please visit the [Contact Page](https://torutakenaga.com/contact)
