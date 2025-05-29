@@ -1,25 +1,52 @@
-/* style.css: dark theme */
+/* Elegant dark theme - style.css */
+
 body {
-  background-color: #000;
-  color: #fff;
-  font-family: sans-serif;
-  line-height: 1.6;
+  background-color: #0b0b0c;
+  color: #eae6e1;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 1rem;
+  line-height: 1.75;
+  margin: 0;
   padding: 2rem;
 }
 
+/* Headings */
+h1, h2, h3, h4 {
+  color: #d9b3ff;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Links */
 a {
-  color: #66ccff;
+  color: #a6c8ff;
   text-decoration: none;
+  transition: color 0.3s ease;
 }
 
 a:hover {
-  color: #99ddff;
+  color: #cce6ff;
   text-decoration: underline;
 }
 
+/* Code block */
 code, pre {
-  background-color: #222;
-  color: #eee;
-  padding: 0.25rem 0.5rem;
+  background-color: #1b1b1c;
+  color: #ffdead;
+  font-family: 'Courier New', monospace;
+  padding: 0.4em 0.6em;
   border-radius: 4px;
 }
+
+/* Horizontal rule */
+hr {
+  border: none;
+  border-top: 1px solid #2e2e2f;
+  margin: 2rem 0;
+}
+
+/* Blockquote */
+blockquote {
+  border-left: 4px solid #bca7d3;
+  back
