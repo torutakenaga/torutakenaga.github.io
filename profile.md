@@ -4,8 +4,7 @@
 
 2017年にペア結成。平日はダンス以外の仕事をしながら、タンゴを普及すべく、主に京都にて活動中。イベントへの出演ほか、毎週末の練習会開催（Kyoto Tango Club）、海外アーティストの招聘、企画・運営のサポートを行なっている。また、KANSAI Tango Orquesta専属ダンサーとしても活動中。
 
-<img src="data/1.jpg" alt="Toru & Etsuko" style="max-width: 66%; height: auto;">
-
+<img src="data/1.jpg" alt="Toru & Etsuko" style="width: 60vw; height: auto; display: block; margin: 0 auto;">
 *Photo © Miguel Santillan*
 
 ---
