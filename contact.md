@@ -24,7 +24,6 @@ Depending on the purpose and nature of the event, I am generally available with 
 Each request will be reviewed individually.  
 Please don’t hesitate to share the details of your project or event.
 
-### Profile in Japanese
+### Tango Profile
 
-My profile in Argentine Tango is currently available only in Japanese.  
-[プロフィール（日本語）はこちら](/profile)
+You can find my full profile [here](/profile)
