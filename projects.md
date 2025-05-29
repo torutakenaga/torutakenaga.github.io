@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/style.css">
+
 # Projects
 
 *Experiments in progress across science, movement, and tools.*
