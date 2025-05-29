@@ -6,7 +6,7 @@
 Formed as a pair in 2017.  
 While maintaining day jobs during the week, they dedicate their time to promoting Argentine Tango, mainly based in Kyoto.  
 Their activities include event performances, hosting weekly practice sessions (Kyoto Tango Club), inviting international artists, and supporting planning and operations.  
-They are also featured dancers for the **KANSAI Tango Orquesta**.
+They are also featured dancers for the KANSAI Tango Orquesta.
 
 <div style="text-align: center;">
   <img src="data/1.jpg" alt="Toru & Etsuko" style="width: 60vw; height: auto;"><br>
