@@ -26,5 +26,5 @@ Please don’t hesitate to share the details of your project or event.
 
 ### Profile in Japanese
 
-My Argentine Tango profile is currently available only in Japanese.  
+My profile in Argentine Tango is currently available only in Japanese.  
 [プロフィール（日本語）はこちら](/profile)
