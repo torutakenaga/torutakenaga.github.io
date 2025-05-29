@@ -9,19 +9,27 @@ Toru has trained in kendo since 1998. From 2004 to 2009, he lived in the UK and 
 He continues to pursue both scientific research and movement disciplines in parallel.
 
 ---
+
 ## CV
 
 You can download my CV directly [here](/CV_25.pdf).
 
 ---
+
 ## Channels
 
 * [ORCID](https://orcid.org/0000-0002-1277-4156)
 * [GitHub](https://github.com/torutakenaga)
 * [Instagram](https://instagram.com/toru_takenaga)
-  
+
+---
+
+## Tango Profile
+
+For a detailed record of tango performances, events, and collaborations, visit the  
+[Full Tango Profile](/profile)
+
 ---
 
 > *Silence over sound.*  
 > *Like the music of Carlos Di Sarli.*
-
