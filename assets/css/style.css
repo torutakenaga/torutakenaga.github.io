@@ -1,10 +1,10 @@
-/* Monochrome dark mode - clean and readable */
+/* Elegant dark theme - with soft contrast */
 body {
-  background-color: #000000;
-  color: #ffffff;
+  background-color: #121212;
+  color: #f0f0f0;
   font-family: "Arial Narrow", "Yu Gothic", "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
   font-size: 1rem;
-  line-height: 1.7;
+  line-height: 1.8;
   margin: 0;
   padding: 2rem;
 }
@@ -20,22 +20,22 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Links */
 a {
-  color: #ffffff;
+  color: #9ecfff;
   text-decoration: underline;
 }
 
 a:hover {
-  opacity: 0.75;
+  color: #b3e5fc;
+  opacity: 0.85;
 }
 
-/* Code blocks - glowing yellow effect */
+/* Code blocks */
 code, pre {
-  background-color: #2b2300; /* deep amber */
-  color: #ffe599; /* soft yellow */
+  background-color: #1e1e1e;
+  color: #ffe082;
   font-family: monospace;
   padding: 0.3em 0.5em;
   border-radius: 4px;
-  box-shadow: 0 0 4px rgba(255, 255, 150, 0.3); /* gentle glow */
 }
 
 /* Horizontal rules */
@@ -49,18 +49,18 @@ hr {
 blockquote {
   border-left: 4px solid #555555;
   padding-left: 1rem;
-  color: #cccccc;
+  color: #aaaaaa;
   font-style: italic;
   margin: 1.5rem 0;
 }
 
-/* Selection highlight – soft cream */
+/* Selection highlight */
 *::selection {
-  background-color: #fff7cc !important;  /* gentle yellow highlight */
+  background-color: #fff8cc !important;
   color: #000000 !important;
 }
 
 *::-moz-selection {
-  background-color: #fff7cc !important;
+  background-color: #fff8cc !important;
   color: #000000 !important;
 }
