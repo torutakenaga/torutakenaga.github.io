@@ -1,6 +1,13 @@
 # Log
 ## Entries
 
+### 2025-05-29  
+**Theme:** Call Page Setup and Portrait Project Launch  
+* Created and published the `/call` section  
+* Added Portrait Project 2025 first-term call for participation  
+* Updated homepage structure to include "Call" section at the top  
+* Revised Contact page to include appearance request information
+
 ### 2025-05-16  
 **Theme:** Website Update  
 * Refined About section
