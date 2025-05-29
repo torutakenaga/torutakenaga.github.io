@@ -1,52 +1,53 @@
-/* Elegant dark theme - style.css */
-
+/* Monochrome dark mode - clean and readable */
 body {
-  background-color: #0b0b0c;
-  color: #eae6e1;
-  font-family: 'Georgia', 'Times New Roman', serif;
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'Helvetica Neue', 'Arial', sans-serif;
   font-size: 1rem;
-  line-height: 1.75;
+  line-height: 1.7;
   margin: 0;
   padding: 2rem;
 }
 
 /* Headings */
-h1, h2, h3, h4 {
-  color: #d9b3ff;
-  font-weight: 600;
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+  font-weight: bold;
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
 /* Links */
 a {
-  color: #a6c8ff;
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
-
-a:hover {
-  color: #cce6ff;
+  color: #ffffff;
   text-decoration: underline;
 }
 
-/* Code block */
+a:hover {
+  opacity: 0.75;
+}
+
+/* Code blocks */
 code, pre {
-  background-color: #1b1b1c;
-  color: #ffdead;
-  font-family: 'Courier New', monospace;
-  padding: 0.4em 0.6em;
+  background-color: #111111;
+  color: #ffffff;
+  font-family: monospace;
+  padding: 0.3em 0.5em;
   border-radius: 4px;
 }
 
-/* Horizontal rule */
+/* Horizontal rules */
 hr {
   border: none;
-  border-top: 1px solid #2e2e2f;
+  border-top: 1px solid #333333;
   margin: 2rem 0;
 }
 
-/* Blockquote */
+/* Blockquotes */
 blockquote {
-  border-left: 4px solid #bca7d3;
-  back
+  border-left: 4px solid #555555;
+  padding-left: 1rem;
+  color: #cccccc;
+  font-style: italic;
+  margin: 1.5rem 0;
+}
