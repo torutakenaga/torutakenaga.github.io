@@ -1,14 +1,14 @@
 # Toru Takenaga
 
-**Someone on a journey to explore research and art, and to shape a life of balance.**
+**Exploring the intersections of science, art, and daily life — a journey in progress.**
 
 ---
 
 ## Sections
 
-* [Call](/call) — Open invitations to collaborate and create  
-* [About](/about) — Who I am  
-* [Projects](/projects) — Ongoing experiments in science, movement, and creation  
-* [Works](/works) — Completed outputs and selected results  
-* [Log](/log) — Daily records and learning traces  
-* [Contact](/contact) — Inquiries and connections
+* [Call](/call) — Invitations to collaborate and co-create in ongoing explorations
+* [About](/about) — A glimpse into my journey and current pursuits
+* [Projects](/projects) — Experiments at the nexus of science, movement, and creativity
+* [Works](/works) — Selected outcomes and reflections from past endeavors
+* [Log](/log) — Chronicles of daily insights and learning processes
+* [Contact](/contact) — Reach out for conversations and collaborations
