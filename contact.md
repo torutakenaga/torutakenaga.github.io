@@ -1,4 +1,3 @@
-
 # Contact
 
 Thank you for your interest.  
@@ -17,6 +16,14 @@ Feel free to contact me directly by email:
 
 ---
 
+## Looking for Collaborators
+
+I’m currently exploring how research, art, and daily life can be woven together—still learning, still adjusting.  
+I’m always looking for people who might be interested in sharing parts of this journey or collaborating in small or big ways.  
+If any of this resonates with you, I’d love to hear from you.
+
+---
+
 ## Argentine Tango Appearance Requests
 
 I welcome invitations for Argentine Tango performances.  
@@ -31,4 +38,3 @@ Please feel free to share the details of your project or event.
 
 You can find my full profile here:  
 [Profile](https://torutakenaga.com/profile)
-
