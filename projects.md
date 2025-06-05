@@ -3,20 +3,26 @@
 *Experiments in progress across science, movement, and tools.*
 
 This section is a space for sharing ongoing experiments—some scientific, some artistic, and some practical.  
-Details aren’t shared here yet, as they’re still forming and evolving.
 
 ---
 
-## Structure
+## Scientific and Regulatory Work
+- Influenza HA vaccine development  
+- Candid#1 (Junin virus vaccine for Argentine hemorrhagic fever)
 
-- Antigen stability in influenza HA  
-- Protein crosslinking analysis
+---
+
+## Regulatory operations and standards
+- WHO ERL operations and standardization  
+- Development of national reference standards  
+- National testing and regulatory compliance
 
 ---
 
 ## Movement
 
-- Tango and bandoneon practice  
+- Tango training log
+- Bandoneon practice  
 - Kendo training log
 
 ---
