@@ -7,7 +7,7 @@ This section is a space for sharing ongoing experiments—some scientific, some 
 ---
 
 ## Scientific and Regulatory Work
-- Influenza HA vaccine development  
+- Seasonal / Pandemic Influenza HA vaccines 
 - Candid#1 (Junin virus vaccine for Argentine hemorrhagic fever)
 
 ---
