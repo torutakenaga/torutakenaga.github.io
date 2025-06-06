@@ -15,5 +15,5 @@
 
 ---
 
-If you’d like to support my ongoing work and explorations, here’s my [Wish List](リンクURL).  
+If you’d like to support my ongoing work and explorations, here’s my [Wish List](https://www.amazon.co.jp/hz/wishlist/ls/ZA65R2NEDL2Q?ref_=wl_share).  
 Thank you for helping me grow and create.
