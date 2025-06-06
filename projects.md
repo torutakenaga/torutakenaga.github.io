@@ -1,18 +1,20 @@
 # Projects
 
-*Experiments in progress across science, movement, and tools.*
+*Experiments in progress across science, movement, and creative tools.*
 
-This section is a space for sharing ongoing experiments—some scientific, some artistic, and some practical.  
+This section is a space for sharing ongoing experiments—some scientific, some artistic, and some practical.
 
 ---
 
 ## Scientific Work
-- Seasonal / Pandemic Influenza HA vaccines 
+
+- Seasonal and pandemic influenza HA vaccines  
 - Candid#1 (Junin virus vaccine for Argentine hemorrhagic fever)
 
 ---
 
-## Regulatory operations and standards
+## Regulatory Operations and Standards
+
 - WHO ERL operations and standardization  
 - Development of national reference standards  
 - National testing and regulatory compliance
@@ -21,8 +23,7 @@ This section is a space for sharing ongoing experiments—some scientific, some 
 
 ## Movement
 
-- Tango training log
-- Bandoneon practice  
+- Tango training log  
 - Kendo training log
 
 ---
@@ -33,5 +34,11 @@ This section is a space for sharing ongoing experiments—some scientific, some 
 
 ---
 
-*This page—and the projects within—are still in progress.  
-I’ll continue to share small updates and insights as they take shape.*
+## Bandoneon
+
+- [Virtual bandoneon prototype (2025)](https://torutakenaga.com/virtual-bandoneon-web/)  
+
+---
+
+*This page—and the projects within—are evolving.  
+I’ll continue to share updates and insights as they take shape.*
