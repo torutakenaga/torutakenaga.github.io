@@ -8,7 +8,7 @@ This section is a space for sharing ongoing experiments—some scientific, some 
 
 ## Research
 
-- Seasonal / pandemic influenza HA vaccines  
+- Seasonal and pandemic influenza HA vaccines  
 - Candid#1 (Junin virus vaccine for Argentine hemorrhagic fever)
 
 ---
