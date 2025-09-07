@@ -19,6 +19,7 @@ You can download my CV directly [here](/CV_25.pdf).
 
 * [ORCID](https://orcid.org/0000-0002-1277-4156)
 * [Instagram](https://instagram.com/toru_takenaga)
+* [GitHub](https://github.com/torutakenaga)
 
 ---
 
