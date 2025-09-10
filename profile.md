@@ -112,7 +112,6 @@ They are also featured dancers for the KANSAI Tango Orquesta.
 - Agostina Tarchini Japan Tour – Osaka/Kyoto (Jan 27–29, 2023)  
 - 125th Japan–Argentina Friendship – Kyoto Tango Art Museum (Sep 18, 2023)  
 - Kyoto Anniversary Milonga – Rumbita & Rodrigo (Oct 7–8, 2023)  
-- Tango Flash Mob – Tokyo Metropolitan Theatre (Mar 3, 2024)  
 
 ---
 
