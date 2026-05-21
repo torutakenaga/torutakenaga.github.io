@@ -1,3 +1,10 @@
 title: "Toru Takenaga"
 markdown: kramdown
 theme: minima
+
+header_pages:
+  - about.md
+  - works.md
+  - projects.md
+  - log.md
+  - contact.md
