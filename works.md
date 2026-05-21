@@ -1,5 +1,3 @@
-# Works
-
 ## Research Publications
 
 For an up-to-date list of publications, see my [ORCID profile](https://orcid.org/0000-0002-1277-4156).
@@ -18,7 +16,7 @@ Proof-of-concept system using large language models to support structured infect
 
 ### Virtual Bandoneón
 
-A web-based prototype of a virtual bandoneón instrument.  
+A web-based prototype of a virtual bandoneón instrument.
 
 → [Try it here](https://torutakenaga.com/virtual-bandoneon-web/)
 
@@ -26,7 +24,7 @@ A web-based prototype of a virtual bandoneón instrument.
 
 ## Tango
 
-Full performance history and collaborations:  
+Full performance history and collaborations:
 
 → [Tango Profile](/profile)
 
