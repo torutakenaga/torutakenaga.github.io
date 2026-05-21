@@ -1,3 +1,7 @@
+---
+title: About
+---
+
 Toru Takenaga is a research scientist based in Tokyo, working at the intersection of infectious disease science, data analysis, and the arts.
 
 His research focuses on influenza vaccine quality control and analytical standardization, with additional interests in applying machine learning and large language models to public health challenges.
