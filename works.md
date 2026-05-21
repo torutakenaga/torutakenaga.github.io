@@ -1,3 +1,7 @@
+---
+title: Works
+---
+
 ## Research Publications
 
 For an up-to-date list of publications, see my [ORCID profile](https://orcid.org/0000-0002-1277-4156).
