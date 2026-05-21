@@ -1,3 +1,7 @@
+---
+title: Projects
+---
+
 *Experiments in progress across science, movement, and creative tools.*
 
 This section is a space for sharing ongoing experiments—some scientific, some artistic, and some practical.
