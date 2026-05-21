@@ -1,5 +1,3 @@
-# Toru Takenaga
-
 **Exploring the intersections of science, art, and daily life — a journey in progress.**
 
 ---
