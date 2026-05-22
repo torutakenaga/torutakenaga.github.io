@@ -4,6 +4,9 @@ theme: minima
 
 header_pages:
   - about.md
+  - research.md
+  - tango.md
+  - kendo.md
   - works.md
   - projects.md
   - log.md
