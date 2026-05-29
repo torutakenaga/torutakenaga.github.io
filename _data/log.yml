@@ -274,4 +274,305 @@
 
 - date: "2023.01.15"
   title: "Tango Grelio第3版CD発売記念 京都公演"
-  venue:
+  venue: "京都 河原町 カフェ・ルンビータ"
+  category: tango
+
+- date: "2023.01.08"
+  title: "花パーティー"
+  venue: "京都 北山モノリス"
+  category: tango
+
+- date: "2022.12.04"
+  title: "クリスマスミロンガ — Special Guests : Fabian Peralta y Josefina Bermudez"
+  venue: "京都 祇園Para Dos"
+  category: tango
+
+- date: "2022.11.23"
+  title: "KANSAI Tango Orquesta Autumn Concert"
+  venue: "大阪 SPinniNG MiLL"
+  category: tango
+
+- date: "2022.09.03"
+  title: "Millonga Berretin"
+  venue: "大阪 西天満 カフェティン・デ・ブエノスアイレス"
+  category: tango
+
+- date: "2022.08.27"
+  title: "El Puente Milonga"
+  venue: "兵庫 宝塚 EL Puente"
+  category: tango
+
+- date: "2022.08.21"
+  title: "アルゼンチンタンゴライブ"
+  venue: "大阪 西天満 カフェティン・デ・ブエノスアイレス"
+  category: tango
+
+- date: "2022.08.20"
+  title: "星空のアルゼンチンタンゴ"
+  venue: "京都 文化パルク城陽プラネタリウム"
+  category: tango
+
+- date: "2022.08.15"
+  title: "第34回サルサ・カンデーラ ージャパン・アフロ・ラテン・フェス2022ー"
+  venue: "滋賀 旧大津公会堂"
+  category: tango
+
+- date: "2022.08.14"
+  title: "ELLA BAILA —Tango Live Show 2022, ナタリア・ヒルズ アジアツアー2022"
+  venue: "大阪 心斎橋Music Club JANUS"
+  category: tango
+
+- date: "2022.07.17"
+  title: "OSAKA TANGO WEEKEND"
+  venue: "大阪 グランサロン十三"
+  category: tango
+
+- date: "2022.06.05"
+  title: "KANSAI Tango Orquesta Spring Live"
+  venue: "大阪 SPinniNG MiLL"
+  category: tango
+
+- date: "2022.05.29"
+  title: "Ensueno Milonga"
+  venue: "大阪 西天満 カフェティン・デ・ブエノスアイレス"
+  category: tango
+
+- date: "2022.04.10"
+  title: "サクラタンゴフェスティバル 2022 After Milonga"
+  venue: "福岡 ティエンポ・イベロアメリカーノ"
+  category: tango
+
+- date: "2022.03.06"
+  title: "タンゴ〜ブエノスアイレスの街角より〜"
+  venue: "京都 文化パルク城陽プラネタリウム"
+  category: tango
+
+- date: "2021.12.30"
+  title: "Tango Fantasia 2021 〜タンゴ・ファンタシア2021〜"
+  venue: "大阪 京橋ベロニカ"
+  category: tango
+
+- date: "2021.12.27"
+  title: "Love Passion Tangoshow 〜愛と情熱のタンゴショー〜"
+  venue: "大阪 京橋ベロニカ"
+  category: tango
+
+- date: "2021.12.26"
+  title: "ラッサウイルスの細胞侵入阻害薬の探索"
+  venue: "第12回スクリーニング学研究会"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36383644"
+
+- date: "2021.11.16"
+  title: "エストロゲン受容体作動薬はラッサウイルスの細胞侵入を阻害する"
+  venue: "第68回日本ウイルス学会学術集会"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36383652"
+
+- date: "2021.11.04"
+  title: "危ないウイルス研究はどうやってするの？（招待講演）"
+  venue: "京都大学高大連携・北海道岩見沢東高等学校 オンデマンド"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36383107"
+
+- date: "2021.11"
+  title: "ウイルス病原体研究のためのhiPSCs由来気道オンチップモデルの開発"
+  venue: "化学とマイクロ・ナノシステム学会 第44回研究会 CHEMINAS 44"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36383660"
+
+- date: "2021.11.03"
+  title: "Platinum Milonga Special"
+  venue: "東京 銀座 リベルタンゴ"
+  category: tango
+
+- date: "2021.10.31"
+  title: "アルゼンチンタンゴショー"
+  venue: "大阪 西天満 カフェティン・デ・ブエノスアイレス"
+  category: tango
+
+- date: "2021.10.30"
+  title: "アルゼンチンタンゴショー"
+  venue: "大阪 西天満 カフェティン・デ・ブエノスアイレス"
+  category: tango
+
+- date: "2021.09.03"
+  title: "CP100356 Hydrochloride, a P-Glycoprotein Inhibitor, Inhibits Lassa Virus Entry"
+  venue: "Viruses"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/published_papers/36371674"
+
+- date: "2021.08.29"
+  title: "真夏の夜のタンゴ"
+  venue: "京都 文化パルク城陽プラネタリウム"
+  category: tango
+
+- date: "2021.08.15"
+  title: "Development of cell entry inhibitors for Lassa virus（生体の科学 特集）"
+  venue: "医学書院 / 生体の科学"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/books_etc/36371807"
+
+- date: "2021.03.20"
+  title: "Akari Milonga in Kyoto"
+  venue: "京都 烏丸御池 灯"
+  category: tango
+
+- date: "2021.02.20"
+  title: "アルゼンチンタンゴ〜100年の情熱〜"
+  venue: "京都 文化パルク城陽プラネタリウム"
+  category: tango
+
+- date: "2020.12.20"
+  title: "カンサイ・タンゴ・オルケスタ 第2回定期コンサート"
+  venue: "大阪 豊中市文化芸術センター 小ホール"
+  category: tango
+
+- date: "2020.12.16"
+  title: "ウイルスはどうやって感染するの？（招待講演）"
+  venue: "京都大学高大連携・大阪桐蔭高等学校 オンデマンド"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36383099"
+
+- date: "2020.11.23"
+  title: "アルゼンチンタンゴショー"
+  venue: "京都 烏丸御池 灯"
+  category: tango
+
+- date: "2020.11.19"
+  title: "ウイルスの薬やワクチンの研究（招待講演）"
+  venue: "京都大学高大連携・兵庫県立明石北高等学校 オンデマンド"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36382424"
+
+- date: "2020.11.16"
+  title: "東洋紡総合研究所60周年イベント"
+  venue: "滋賀"
+  category: tango
+
+- date: "2020.10.29"
+  title: "ウイルスはどうやって感染するの？（招待講演）"
+  venue: "京都大学高大連携・福岡県立春日高等学校 オンデマンド"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36383070"
+
+- date: "2020.09"
+  title: "機能既知化合物ライブラリーを用いたラッサウイルス侵入阻害薬の探索"
+  venue: "9th Negative Strand Virus-Japan Symposium"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36383665"
+
+- date: "2019.11.30"
+  title: "ウイルスは生物か？（招待講演）"
+  venue: "京都大学高大連携・麗澤高等学校"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36383055"
+
+- date: "2019.11.18"
+  title: "ウイルスは生物か？（招待講演）"
+  venue: "京都大学高大連携・広島市立舟入高等学校"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36382976"
+
+- date: "2019.10.22"
+  title: "カンサイ・タンゴ・オルケスタ 第1回記念コンサート"
+  venue: "大阪 すてっぷホール"
+  category: tango
+
+- date: "2019.06.07"
+  title: "関西領事団会合「Latin American Evening」"
+  venue: "大阪"
+  category: tango
+
+- date: "2018.12.15"
+  title: "エボラウイルスから学ぶこと（招待講演）"
+  venue: "京都大学高大連携・麗澤高等学校"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36382280"
+
+- date: "2018.10.12"
+  title: "ウイルスは生物か？（招待講演）"
+  venue: "京都大学高大連携・鳥取県立倉吉西高等学校"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36382241"
+
+- date: "2018.09"
+  title: "ラテンバザール展 タンゴ"
+  venue: "大阪 阪急うめだ店"
+  category: tango
+
+- date: "2018.06.29"
+  title: "Evaluation of the fusion partner cell line SPYMEG for human monoclonal antibodies against influenza B virus"
+  venue: "Journal of Veterinary Medical Science"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/published_papers/36371675"
+
+- date: "2018.01"
+  title: "Diversity of antigenic mutants of influenza A(H1N1)pdm09 virus escaped from human monoclonal antibodies"
+  venue: "KEYSTONE SYMPOSIA"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36383618"
+
+- date: "2018"
+  title: "女優 杉本彩の誕生日パーティーにて杉本彩本人と共演"
+  venue: "京都 祇園Repos"
+  category: tango
+
+- date: "2017.12.18"
+  title: "Diversity of antigenic mutants of influenza A(H1N1)pdm09 virus escaped from human monoclonal antibodies"
+  venue: "Scientific Reports"
+  category: research
+  url: "https://www.nature.com/articles/s41598-017-17986-8"
+
+- date: "2017.12.09"
+  title: "ウイルスは生物か？（招待講演）"
+  venue: "京都大学高大連携・福岡県立福岡高等学校"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36382170"
+
+- date: "2017.11.08"
+  title: "ワクチンと治療薬の違い（招待講演）"
+  venue: "京都大学高大連携・京都府立峰山高等学校"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36382196"
+
+- date: "2017.10.11"
+  title: "ウイルスは生物か？（招待講演）"
+  venue: "京都大学高大連携・鳥取県立倉吉西高等学校"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36382182"
+
+- date: "2017.09"
+  title: "ラッサウイルス感染を中和するモノクローナル抗体の作出"
+  venue: "6th Negative Strand Virus-Japan Symposium"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36383670"
+
+- date: "2017.09"
+  title: "抗病原性H5N1鳥インフルエンザウイルス感染の重症化には感染初期の転写因子活性抑制が関与する"
+  venue: "6th Negative Strand Virus-Japan Symposium"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36383667"
+
+- date: "2017"
+  title: "女優 杉本彩の誕生日パーティーにて杉本彩本人と共演"
+  venue: "京都 祇園Repos"
+  category: tango
+
+- date: "2016.12.08"
+  title: "ワクチンと治療薬の違い（招待講演）"
+  venue: "京都大学高大連携・宮城県気仙沼高等学校"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36382112"
+
+- date: "2016.12.03"
+  title: "ワクチンと治療薬の違い（招待講演）"
+  venue: "京都大学高大連携・昭和薬科大学附属高等学校"
+  category: research
+  url: "https://researchmap.jp/torutakenaga/presentations/36381973"
+
+- date: "2015.04.13"
+  title: "Ending HIV Discrimination in Japan"
+  venue: ""
+  category: research
+  url: "https://researchmap.jp/torutakenaga/published_papers/49254576"
