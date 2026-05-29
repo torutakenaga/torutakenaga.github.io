@@ -405,38 +405,16 @@ function filterLog(cat, btn) {
     <div class="contact-h">Get in<br><em>touch</em></div>
     <div class="contact-intro">文章・メールでのお問い合わせはこちらからどうぞ。</div>
   </div>
-  <form action="https://formspree.io/f/xvzyleab" method="POST">
-    <div class="form-2">
-      <div class="form-field">
-        <label>Name / お名前</label>
-        <input type="text" name="name" placeholder="Yamada Taro" required>
-      </div>
-      <div class="form-field">
-        <label>Email</label>
-        <input type="email" name="email" placeholder="taro@example.com" required>
-      </div>
-    </div>
-    <div class="form-field">
-      <label>Category / 種別</label>
-      <select name="category" required>
-        <option value="" disabled selected>Select…</option>
-        <option>Research</option>
-        <option>Tango</option>
-        <option>Kendo</option>
-        <option>Meeting</option>
-        <option>Contact</option>
-      </select>
-    </div>
-    <div class="form-field">
-      <label>Affiliation / 所属（任意）</label>
-      <input type="text" name="affiliation" placeholder="Organization, venue, institution…">
-    </div>
-    <div class="form-field">
-      <label>Message / ご用件</label>
-      <textarea name="message" placeholder="概要・日程・場所など、わかる範囲でお知らせください。" required></textarea>
-    </div>
-    <button class="form-submit" type="submit">Send message →</button>
-  </form>
+  <div>
+    <p style="font-size:13px;font-weight:300;color:var(--ink2);line-height:1.8;margin-bottom:24px;">
+      以下のアドレスまでお気軽にご連絡ください。
+    </p>
+    <a href="mailto:torutakenaga@gmail.com" class="form-submit"
+       style="display:inline-flex;align-items:center;justify-content:center;
+              text-decoration:none;width:100%;padding:11px;">
+      Send email →
+    </a>
+  </div>
 </div>
 </div>
 
