@@ -221,53 +221,6 @@ nav {
 }
 .booking-btn:hover { background: var(--bg2); }
 
-/* CONTACT */
-.contact-outer { border-top: 1px solid var(--rule); }
-.contact-wrap {
-  max-width: 1080px; margin: 0 auto; padding: 56px 48px 80px;
-  display: grid; grid-template-columns: 1fr 1fr; gap: 80px;
-}
-.contact-h {
-  font-family: var(--f-serif); font-size: 40px; font-weight: 300;
-  line-height: 1.1; color: var(--ink); margin-bottom: 18px;
-}
-.contact-h em { font-style: italic; color: var(--ink3); }
-.contact-intro { font-size: 14px; font-weight: 300; color: var(--ink2); line-height: 1.8; margin-bottom: 28px; }
-.contact-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
-.contact-list li {
-  font-size: 13px; font-weight: 300; color: var(--ink2);
-  display: flex; align-items: center; gap: 10px;
-}
-.contact-list li::before { content: '—'; color: var(--ink3); flex-shrink: 0; }
-.form-field { margin-bottom: 14px; }
-.form-field label {
-  display: block; font-family: var(--f-mono); font-size: 9px;
-  font-weight: 300; letter-spacing: 0.1em; text-transform: uppercase;
-  color: var(--ink3); margin-bottom: 5px;
-}
-.form-field input,
-.form-field select,
-.form-field textarea {
-  width: 100%; background: var(--bg2);
-  border: 1px solid var(--rule); border-radius: 2px;
-  padding: 9px 12px; font-family: var(--f-sans); font-size: 13px;
-  font-weight: 300; color: var(--ink); outline: none;
-  transition: border-color 0.2s; -webkit-appearance: none;
-}
-.form-field input:focus,
-.form-field select:focus,
-.form-field textarea:focus { border-color: var(--ink2); }
-.form-field textarea { height: 96px; resize: vertical; line-height: 1.6; }
-.form-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-.form-submit {
-  width: 100%; padding: 11px; background: var(--ink); color: var(--bg);
-  border: none; border-radius: 2px;
-  font-family: var(--f-mono); font-size: 10px; font-weight: 400;
-  letter-spacing: 0.1em; text-transform: uppercase;
-  cursor: pointer; transition: opacity 0.2s; margin-top: 4px;
-}
-.form-submit:hover { opacity: 0.78; }
-
 /* FOOTER */
 footer {
   border-top: 1px solid var(--rule); padding: 18px 48px;
@@ -299,8 +252,6 @@ footer {
   .log-row { grid-template-columns: 68px 1fr 60px; gap: 10px; }
   .pillars-wrap { padding: 0 20px; }
   .pillars { grid-template-columns: 1fr; }
-  .contact-wrap { grid-template-columns: 1fr; gap: 40px; padding: 40px 20px 60px; }
-  .form-2 { grid-template-columns: 1fr; }
   footer { padding: 16px 20px; flex-direction: column; gap: 10px; align-items: flex-start; }
 }
 </style>
@@ -314,7 +265,7 @@ footer {
     <li><a href="#tango">Tango</a></li>
     <li><a href="#kendo">Kendo</a></li>
     <li><a href="#booking">Meeting</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="mailto:torutakenaga@gmail.com">Contact</a></li>
   </ul>
 </nav>
 
@@ -324,7 +275,7 @@ footer {
   <div class="hero-desc">
     Research scientist at JIHS/NIID. Tango dancer. Kendo 6th dan.
   </div>
-  <a class="hero-cta" href="#contact">Contact / Meeting →</a>
+  <a class="hero-cta" href="#booking">Meeting →</a>
 </div>
 </div>
 
@@ -394,26 +345,6 @@ function filterLog(cat, btn) {
       frameborder="0"
       title="Book a session with Toru Takenaga">
     </iframe>
-  </div>
-</div>
-</div>
-
-<!-- CONTACT -->
-<div class="contact-outer" id="contact">
-<div class="contact-wrap">
-  <div>
-    <div class="contact-h">Get in<br><em>touch</em></div>
-    <div class="contact-intro">文章・メールでのお問い合わせはこちらからどうぞ。</div>
-  </div>
-  <div>
-    <p style="font-size:13px;font-weight:300;color:var(--ink2);line-height:1.8;margin-bottom:24px;">
-      以下のアドレスまでお気軽にご連絡ください。
-    </p>
-    <a href="mailto:torutakenaga@gmail.com" class="form-submit"
-       style="display:inline-flex;align-items:center;justify-content:center;
-              text-decoration:none;width:100%;padding:11px;">
-      Send email →
-    </a>
   </div>
 </div>
 </div>
