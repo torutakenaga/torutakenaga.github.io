@@ -1,0 +1,74 @@
+# ─────────────────────────────────────────────
+# Activity Log — torutakenaga.com
+#
+# 【追加するときはここをコピーして先頭に貼る】
+#
+# - date: "2026.00.00"
+#   title: ""
+#   venue: ""
+#   category: research   # research / tango / kendo / project
+#   url: ""              # 省略可。あればタイトルがリンクになる
+#
+# ─────────────────────────────────────────────
+
+- date: "2026.05.29"
+  title: "LLMATCH proof-of-concept completed — LLM-based infectious disease notification support"
+  venue: "JIHS/NIID · Tokyo"
+  category: research
+  url: "https://github.com/torutakenaga"
+
+- date: "2026.04.01"
+  title: "Milonga performance with Erik — international collaboration"
+  venue: "Tokyo"
+  category: tango
+
+- date: "2026.04.01"
+  title: "ID-MS / HA quantification — abstract accepted, Vaccine Society 2026"
+  venue: "Oral presentation"
+  category: research
+
+- date: "2026.03.01"
+  title: "SPReAD grant proposal submitted — AI for Science program"
+  venue: "¥5,000,000 · AMED"
+  category: research
+
+- date: "2025.08.25"
+  title: "KANSAI Tango Orquesta Summer Concert"
+  venue: "Osaka"
+  category: tango
+
+- date: "2025.08.18"
+  title: '"Hana" 40th Concert — tango performance'
+  venue: "Kyoto Concert Hall"
+  category: tango
+
+- date: "2025.05.29"
+  title: "Portrait Project 2025 — call for participation launched"
+  venue: "Tokyo · ongoing"
+  category: project
+  url: "https://torutakenaga.com/01_2025"
+
+- date: "2024.11.01"
+  title: "KAKENHI 26K18514 awarded — HA inactivation study (formalin vs. BPL)"
+  venue: "Young Scientists grant · FY2026–2030"
+  category: research
+
+- date: "2024.03.03"
+  title: "Argentine Tango Flash Mob"
+  venue: "Tokyo Metropolitan Theatre"
+  category: tango
+
+- date: "2023.02.26"
+  title: '"EL CXUCLE Theater Show" — international performance'
+  venue: "Seoul, Korea"
+  category: tango
+
+- date: "2021.09.12"
+  title: "Winner — OPEN DUTCH TANGUERIL"
+  venue: "International competition · Online"
+  category: tango
+
+- date: "2019.04.14"
+  title: "1st Place (Audience Vote) — Tango Pista Asia Championship West Japan"
+  venue: "Award"
+  category: tango
