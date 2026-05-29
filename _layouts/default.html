@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{% if page.title %}{{ page.title }} — {% endif %}Toru Takenaga</title>
+<meta name="description" content="Research scientist, Argentine tango dancer, kendo 6th dan. Based in Tokyo.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=Geist+Mono:wght@300;400&family=Geist:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:      #F7F5F0;
+  --bg2:     #EFECE5;
+  --rule:    rgba(24,23,15,0.1);
+  --ink:     #18170F;
+  --ink2:    #6A6860;
+  --ink3:    #A9A69E;
+  --tango:   #B83040;
+  --kendo:   #3A4A5C;
+  --science: #1F5C3E;
+  --f-serif: 'Cormorant Garamond', Georgia, serif;
+  --f-mono:  'Geist Mono', monospace;
+  --f-sans:  'Geist', sans-serif;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  background: var(--bg); color: var(--ink);
+  font-family: var(--f-sans); font-size: 14px; font-weight: 300;
+  line-height: 1.65; -webkit-font-smoothing: antialiased;
+}
+
+/* NAV */
+nav {
+  position: sticky; top: 0; z-index: 99;
+  background: var(--bg); border-bottom: 1px solid var(--rule);
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0 48px; height: 48px;
+}
+.nav-logo {
+  font-family: var(--f-serif); font-size: 18px; font-weight: 400;
+  font-style: italic; color: var(--ink); text-decoration: none;
+}
+.nav-links { display: flex; gap: 24px; list-style: none; }
+.nav-links a {
+  font-family: var(--f-mono); font-size: 10px; font-weight: 300;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--ink3); text-decoration: none; transition: color 0.2s;
+}
+.nav-links a:hover { color: var(--ink); }
+
+/* PAGE CONTENT */
+.page-content {
+  max-width: 1080px; margin: 0 auto; padding: 56px 48px 80px;
+}
+.page-title {
+  font-family: var(--f-serif); font-size: 40px; font-weight: 300;
+  font-style: italic; color: var(--ink); margin-bottom: 32px;
+  padding-bottom: 24px; border-bottom: 1px solid var(--rule);
+}
+.page-content h2 {
+  font-family: var(--f-serif); font-size: 22px; font-weight: 300;
+  color: var(--ink); margin: 32px 0 12px;
+}
+.page-content p {
+  font-size: 14px; font-weight: 300; color: var(--ink2);
+  line-height: 1.8; margin-bottom: 14px;
+}
+.page-content ul {
+  padding-left: 0; list-style: none; margin-bottom: 14px;
+}
+.page-content ul li {
+  font-size: 13px; font-weight: 300; color: var(--ink2);
+  line-height: 1.7; padding: 6px 0;
+  border-bottom: 1px solid var(--rule);
+  display: flex; gap: 10px; align-items: baseline;
+}
+.page-content ul li::before {
+  content: '—'; color: var(--ink3); flex-shrink: 0;
+}
+.page-content a { color: var(--ink); text-underline-offset: 3px; }
+
+/* FOOTER */
+footer {
+  border-top: 1px solid var(--rule); padding: 18px 48px;
+  max-width: 1080px; margin: 0 auto;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.footer-copy {
+  font-family: var(--f-mono); font-size: 9px; font-weight: 300;
+  letter-spacing: 0.06em; color: var(--ink3);
+}
+.footer-links { display: flex; gap: 18px; }
+.footer-links a {
+  font-family: var(--f-mono); font-size: 9px; font-weight: 300;
+  letter-spacing: 0.06em; color: var(--ink3);
+  text-decoration: none; transition: color 0.2s;
+}
+.footer-links a:hover { color: var(--ink); }
+</style>
+</head>
+<body>
+
+<nav>
+  <a class="nav-logo" href="/">Toru Takenaga</a>
+  <ul class="nav-links">
+    <li><a href="/#tango">Tango</a></li>
+    <li><a href="/#kendo">Kendo</a></li>
+    <li><a href="/#research">Research</a></li>
+    <li><a href="/#contact">Contact</a></li>
+  </ul>
+</nav>
+
+{{ content }}
+
+<footer>
+  <div class="footer-copy">© 2026 Toru Takenaga · torutakenaga.com</div>
+  <div class="footer-links">
+    <a href="https://orcid.org/0000-0002-1277-4156" target="_blank">ORCID</a>
+    <a href="https://github.com/torutakenaga" target="_blank">GitHub</a>
+    <a href="https://instagram.com/toru_tango" target="_blank">Instagram</a>
+  </div>
+</footer>
+
+</body>
+</html>
